@@ -1,0 +1,4 @@
+interface:
+  display_name: "Connor’s Humanizer"
+  short_description: "Make prose natural, specific, and unmistakably Connor"
+  default_prompt: "Use $connor-humanizer to rewrite this in Connor’s natural voice and explain the important changes."
